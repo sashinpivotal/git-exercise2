@@ -1,6 +1,1 @@
-adf
-sangshinneueda
-
-this line is modified by 2 team members - merge conflict
-4th line
-
+member1 change added
